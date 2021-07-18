@@ -1,0 +1,14 @@
+{
+    "0" : [
+        "Cancer",
+        "cancer"
+    ],
+    "1" : [
+        "Normal",
+        "normal"
+    ],
+    "2" : [
+        "PMD",
+        "pmd"
+    ]
+}
